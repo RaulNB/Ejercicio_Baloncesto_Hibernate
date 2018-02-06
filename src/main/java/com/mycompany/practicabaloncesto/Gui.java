@@ -18,7 +18,7 @@ import org.hibernate.exception.ConstraintViolationException;
 
 /**
  *
- * @author Alumno
+ * @author Raúl Nájera
  */
 public class Gui extends javax.swing.JFrame {
 
